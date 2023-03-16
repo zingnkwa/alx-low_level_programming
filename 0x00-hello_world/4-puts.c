@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main - main function
-*return: well executed
+*Return: well executed
 */
 int main(void)
 {
